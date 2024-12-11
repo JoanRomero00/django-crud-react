@@ -1,0 +1,9 @@
+# Ignora la carpeta venv
+venv
+__pycache__
+
+db.sqlite3
+staticfiles/
+
+# environment variables
+.env.local
